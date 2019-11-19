@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PlayerControls
+comment1.params=player
+comment1.target=PlayerControls(Astronaut)
+comment2.params=
+comment2.target=void\ keyCommands()
+comment3.params=
+comment3.target=void\ mouseCommands()
+numComments=4

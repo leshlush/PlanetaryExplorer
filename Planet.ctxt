@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Planet
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Planet\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=windowWidth\ windowHeight\ worldWidth
+comment1.target=Planet(int,\ int,\ int)
+comment10.params=
+comment10.target=void\ victory()
+comment2.params=
+comment2.target=int\ getWorldWidth()
+comment3.params=
+comment3.target=void\ addFloor()
+comment4.params=
+comment4.target=void\ addWalls()
+comment5.params=speed
+comment5.target=void\ scrollLeft(int)
+comment6.params=speed
+comment6.target=void\ scrollRight(int)
+comment7.params=speed
+comment7.target=void\ scrollUp(int)
+comment8.params=speed
+comment8.target=void\ scrollDown(int)
+comment9.params=length\ x\ y
+comment9.target=void\ createPlatform(int,\ int,\ int)
+numComments=11

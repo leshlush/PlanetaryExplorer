@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Gravitator
+comment1.params=
+comment1.target=Gravitator()
+comment2.params=gravityObject
+comment2.target=void\ gravitate(GravityObject)
+comment3.params=gravityObject
+comment3.target=void\ fallMovement(GravityObject)
+comment4.params=gravityObject\ speed
+comment4.target=void\ verticalScrolling(GravityObject,\ int)
+comment5.params=gravityObject
+comment5.target=void\ gravityAcceleration(GravityObject)
+comment6.params=gravityObject
+comment6.target=boolean\ isLanded(GravityObject)
+comment7.params=gravityObject
+comment7.target=Landable\ getLandedOn(GravityObject)
+comment8.params=gravityObject
+comment8.target=int\ getImageDistanceFromLandable(GravityObject)
+numComments=9

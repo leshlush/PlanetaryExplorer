@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Cage
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Cage\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Cage()
+comment2.params=x\ y\ cls
+comment2.target=greenfoot.Actor\ getOneObjectAtOffset(int,\ int,\ java.lang.Class)
+comment3.params=
+comment3.target=int\ getYSpeed()
+comment4.params=ySpeed
+comment4.target=void\ setYSpeed(int)
+numComments=5
